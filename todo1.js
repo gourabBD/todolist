@@ -69,55 +69,7 @@ window.addEventListener('load', ()=>{
 
         
     })
-        // if(input1==""){
-        //     alert("Please Put an Task In the box");
-        //    return;
-        // }
-        // else{
-        //     let task=document.querySelector(".task");
-        //      let li= document.createElement("li");
-        //      li.textContent=input1;//declaring list type wouldbe txt
-        //      task.appendChild(li);//adding task to the list
-        //      document.querySelector(".inputC").value="";// input box empty after adding tasks
-             
-
-        //      //Delete
-             
-        //      let del=document.createElement("button");
-        //      del.textContent=" Done";
-        //      del.className="delete";
-        //      li.appendChild(del);
-        //      del.addEventListener('click',(e)=>{
-        //         let delTask= document.querySelector(".task");
-        //         let delitem= e.target.parentNode;
-        //         delTask.removeChild(delitem);
-
-
-        //      })
-
-
-        //      let edi=document.createElement("button1");
-        //      edi.textContent=" Edit";
-        //      edi.className="edit";
-        //      li.appendChild(edi);
-        //      edi.addEventListener('click',(ed)=>{
-        //          if(task_input_el.innerText.toLowerCase()=="edit"){
-        //             task_input_el.removeAttribute("readonly");
-        //             task_input_el.focus();
-        //             task_input_el.innerText="Save";
-
-        //          }else{
-        //              console.log("save");
-        //          }
-              
-
-
-        //      })
-             
-             
-
-         
-        // }
+        
 
 
     
